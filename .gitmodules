@@ -1,0 +1,8 @@
+[submodule "deps/quanser-qube"]
+	path = deps/quanser-qube
+	url = git@github.com:jkbjh/quanser-qube-dev.git
+	branch = inday-demo
+[submodule "deps/singularity-container"]
+	path = deps/singularity-container
+	url = git@github.com:jkbjh/lars-qube-container.git
+	branch = master
